@@ -1,4 +1,4 @@
-# 📚 Sistema de Gestión de Biblioteca con Árbol Binario de Búsqueda (BST)
+#  Sistema de Gestión de Biblioteca con Árbol Binario de Búsqueda (BST)
 
 **Estudiante:** Valentina Nieto 
 **Asignatura:** Estructuras de Datos  
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto implementa un **Sistema de Gestión de Biblioteca** utilizando un  
 **Árbol Binario de Búsqueda (BST)** como estructura principal para almacenar y organizar libros.
@@ -28,7 +28,7 @@ El sistema incluye:
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 biblioteca-bst/
 ├── src/
 │   ├── modelo/
@@ -64,7 +64,7 @@ Universidad Remington
 
 ---
 
-## ▶️ Instrucciones de Compilación y Ejecución
+## Instrucciones de Compilación y Ejecución
 
 ### **1. Compilar el proyecto**
 
